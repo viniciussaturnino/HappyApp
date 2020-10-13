@@ -23,6 +23,7 @@
   justify-content: space-between;
 
   background: url('../../images/landing.svg') no-repeat 80% center;
+  padding: 50px;
 }
 
 #page-landing .content-wrapper main {
@@ -53,6 +54,7 @@
   flex-direction: column;
 
   text-align: right;
+  padding: 50px;
 }
 
 .content-wrapper .location strong {
@@ -61,8 +63,8 @@
 
 .content-wrapper .enter-app {
   position: absolute;
-  right: 0;
-  bottom: 0;
+  right: 50px;
+  bottom: 50px;
 
   width: 80px;
   height: 80px;
